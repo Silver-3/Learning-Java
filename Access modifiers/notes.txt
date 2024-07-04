@@ -1,0 +1,6 @@
+[ ACCESS MODIFIERS (none, public, protected, private) ]
+
+none = access within same package (folder)
+public = everyone can access within project
+protected = can be accessed by subclasses
+private = can be accessed only by its own class
